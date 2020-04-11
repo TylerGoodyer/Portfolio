@@ -19,7 +19,4 @@
 " target="_blank">Charlotte Mills: Luxury Bridal Shoes & Bags</a></li>
     </ul>
   </body>
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
-  npm login --registry=https://npm.pkg.github.com/
-  npm publish
 </html>
